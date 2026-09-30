@@ -33,8 +33,8 @@ assets/               images, video, fonts, resume
 ## Run locally
 
 ```bash
-git clone https://github.com/Huyyen1123/portfolio.git
-cd portfolio
+git clone https://github.com/Huyyen1123/About-Me.git
+cd About-Me
 python3 -m http.server 8000
 ```
 
