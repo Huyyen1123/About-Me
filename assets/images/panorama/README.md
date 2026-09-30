@@ -12,8 +12,7 @@ inside the downloaded pack.
 - **Attribution is required** wherever this site is shown publicly: the
   pack's name and a direct link to its Modrinth page
   (https://modrinth.com/resourcepack/cherry-blossom-panorama). This is in
-  the title screen's bottom-right corner (`.ts-credit` in index.html) --
-  keep it there.
+  the repo's top-level README.md (Credits section) -- keep it there.
 - **Redistribution**: the pack's license prohibits reuploading its files
   as a separate public download. These six WebP copies are published in
   this public repo anyway, by Huy's decision on 2026-09-25, knowing the

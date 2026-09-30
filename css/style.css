@@ -667,17 +667,6 @@ button{ font: inherit; }
   color: rgba(255, 255, 255, 0.6);
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.6);
 }
-.settings-credit{
-  margin: 14px 0 0;
-  font-size: 0.6rem;
-  line-height: 1.5;
-  color: rgba(231, 228, 218, 0.75);
-  text-align: center;
-}
-.settings-credit a{ color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-.settings-credit a:hover{ color: #ffffff; }
-.settings-credit a:focus-visible{ outline: 2px solid var(--diamond); outline-offset: 2px; }
-
 /* ---- Menu windows (About / Experience / Projects) ----
    A modal window over the dimmed titlescreen: grey-bordered frame, a
    "[ TITLE ]" header bar with a Close button, and a near-black body.
